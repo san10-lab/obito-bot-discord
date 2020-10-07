@@ -7,7 +7,7 @@ const bot = new discordScript({
 })
 
 bot.variables({
- aspas1: "1"
+ aspas1: "1",
  aspas2: "2"
 Etc...
  })
